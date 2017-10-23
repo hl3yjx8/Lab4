@@ -172,7 +172,7 @@ public class picture {
                 }
                 else
                 {
-                	blank +=aim+" "+test[i+1]+" ";
+                	blank += aim + " "+test[i+1] + " ";
                 }
             }
         }
